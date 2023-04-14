@@ -1,16 +1,6 @@
 # Flutter UI - Mediacal
 
-### Video
-
-YouTube : [Watch it on YouTube](https://www.youtube.com/watch?v=lmOag4AH75E)
-
-Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1nz4y197kq/)
-
 ### UI 
-
- - Design by: freepik  [link](https://www.freepik.com/free-vector/medical-booking-online-application_8380951.htm#page=1&query=medical-booking-online-application&position=17)  
-
-
 
 ### Mediacal Design UI
 
